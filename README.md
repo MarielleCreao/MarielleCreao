@@ -41,6 +41,14 @@ SFC
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Android Studio-563D7C?style=flat&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-Kotlin-563D7C?style=flat&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=white"> 
+<img src="https://img.shields.io/badge/-WordPress-4DB33D?style=flat&logo=wordpress&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Trello-black?style=flat&logo=trello&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Miro-000000?style=flat&logo=miro&logoColor=FFFFFF">
 
 
 <!--
